@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "keuangan-keluarga-477809",
+  "private_key_id": "65c25c8d9983e260b3ad2398f63cbeeed6587830",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDjLlrJcOaWe0h0\njTqdYR9k5NDSuzQlCgb0WU87ROug4j3+4pum6J4W7cUSgpkO2yDdQtNPebB9IKM8\ncxqxs64OZlVbvyHSKfAmC05e/g8hw4fuGWro5mbDdGYRy9FOFLCQYx3yofw/GfsZ\nmudcGu+QTqueiPiJu296lXoaxaXlssbAlTc5Dx7+hdxxfEH6OBbNaejtB9slOgL6\nWJq2L3Of8CDq6ONfFgpIjVuXT8+O6ZAIgycQsHqAM9sL0GBSz05AW++CHNWJOUO1\ncAGHtFEmplOZs8rRpVzr1ed0gotMbpSSLMM1i6LOMl4Mv1sROZUh9LHajTTqYqfD\nBdJbHvq9AgMBAAECggEADzqgBOFv37YPdxqxi3PDiD6rffjlJ7d6nF4xSMKXvg70\ng3Xa488zq8tQGuvMyVlopFRyuGDqsxShRK/dofxuxlHXVoFjScScb9xxqj4DMyr5\nnX0wNMEfMeqHXhmI5CBQbrlqPEXeFDfQZJjE+iBnH0gaypOZf5gkQrYq+4j01Ect\nmOc0HaYlJCAEL4E7oZpn1uzvhDxj5gZZLXLQHFm5Pf4v6o+zJLrVEbnKvdwg6mv5\nYJLrp8HbaxxZ7yOMV9XZl7TayBNzG55lMxpSkyx11qEtsrcny0RqMKIq7XSKpuw5\nhFOJDqO/uGtBTRbZJpBAVeF3j+pZ8CGNttra6JSrMQKBgQD+iP302G87gLm/xaJK\nd4fDO2apr8oT4qH4tW6233Wia21FG800JbbGQajp6GYFNc4fu/LVt1Fe5OdVOG8j\nB6NWrohFW/lJugHYOtfEjBE0OYPkxl+bRuKtXdfqsx8cixxK+ui64w1zERlOegK3\n1Ait8fAG7yXNwRYqQbgS5iMmUQKBgQDkfQ/Ohz5AvR1Hvz71Hco+88LcV83Jru9R\nj7DTD8wuiwEbxr1NZA6lB9F20RyHUZUBDnkVVX7p5zXpMXlsS9Dobi62z/xoAypC\n2XHBGTykcgGmnJ7nRpItbqaIgwLImM0NyX4T0hMQIZ3+aCV/Ti7L8CZhgTHymvjK\n7HmYn3k2rQKBgQCGfFVKP+0NkGcUV1T3aY527fTBZVstBIq2AQ7dWtYpmf8jC5xx\nmBepStn3tM3qpNIi3Ehi+TfqHqHH2kiGRqvbyd3AX+coODpvSC/m7mbMpDL29oVf\nYqW0GihSHpAqoamySD4dOIhLqtYnK7ox7LslRPagg00DGKkgbJbYjXY28QKBgQDT\nurg9D8I2R4ishaIXjgVuFICLoqnFrN+D2v1meAsjThg23xFod8HCV95Yliozkvva\nwMifZlx275RbhUcZfaAW4pNTQKSK1fQBgnIRGAvD7wlslVICyriGdTTI525a6I2L\nqx2zzEVx+1Tm/SdSMubWgLFwRUI9qDHICR4cuhqe+QKBgHZu8whBtLK/ypmi+Eq7\nQlLaNTNhtLlwTRNzfJT8JuJFZYQrsqzHdHN9e1GfmMufw954iVnXuXbXJyYdJfMZ\ngmhdMFNIgiWbri+Ti7LcjTkbYWF7PPSZHFBEc1DK0NIb58xzuHjhoGOfZtm1/AWO\nkxGQskRrDc1BKZqpNSV0pEY1\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-app-keuangan@keuangan-keluarga-477809.iam.gserviceaccount.com",
+  "client_id": "107708955058672295274",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-app-keuangan%40keuangan-keluarga-477809.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
